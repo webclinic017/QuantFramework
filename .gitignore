@@ -3,3 +3,4 @@ history_data/
 bt-ccxt-store/
 .idea/
 .ipynb_checkpoints/
+.vscode/
